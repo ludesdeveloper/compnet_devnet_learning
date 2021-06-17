@@ -3,4 +3,8 @@
 
 Pilihan bahasa pemrograman bebas untuk menjawab soal diatas
 
+3. Jelaskan apa yang anda tau tentang Git
+4. Jelaskan apa yang anda tau tentang Docker
+5. Jelaskan apa yang anda tau tentang Kubernetes
+
 Silahkan upload/push jawaban di github masing masing, lalu cantumkan linknya di group whatsapp STG - DevOps MTC
