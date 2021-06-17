@@ -1,4 +1,4 @@
 1. Buat sebuah program yang akan melakukan print dari range 1 sampai dengan 10 (Gunakan loop)
 2. Buat sebuah program yang memiliki variable string, lakukan pengecheckan terhadap variable tersebut, bila variable tersebut adalah 'compnet', lakukan print 'Nama Perusahaan Kita', bila variable bukan compnet, lakukan print 'Bukan Nama Perusahaan kita'
 
-Silahkan upload/push jawaban di github masing masing, lalu cantumkan linknya di group whatsapp
+Silahkan upload/push jawaban di github masing masing, lalu cantumkan linknya di group whatsapp STG - DevOps MTC
