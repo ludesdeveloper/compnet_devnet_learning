@@ -1,0 +1,15 @@
+Di project ini kita akan membuat service sederhana Rest API.
+
+Step By Step :
+
+1. Buatlah sebuah Web Service
+2. Berikan response "Selamat Belajar DevNet", pada saat kita mengakses root url "/"
+3. Buat Dockerfile untuk service tersebut
+4. Push ke arah Github
+5. Sign up ke DockerHub
+6. Buatlah repo baru di DockerHub
+7. Kaitkan auto build DockerHub ke Github yang sebelumnya kita buat
+8. Pastikan Auto build bisa berjalan dan Images baru terbuat
+
+Next Step :
+1. Pull Image terbaru, dan jalankan di Okteto
